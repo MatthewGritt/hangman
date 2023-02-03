@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/MatthewGritt/hangman/static/css/main.622ea283.css",
-    "main.js": "/MatthewGritt/hangman/static/js/main.41758e7d.js",
-    "static/media/state11.GIF": "/MatthewGritt/hangman/static/media/state11.43c44828683877de319d.GIF",
-    "static/media/state10.GIF": "/MatthewGritt/hangman/static/media/state10.c4eeb9b661f90adbaaab.GIF",
-    "static/media/state9.GIF": "/MatthewGritt/hangman/static/media/state9.b3cc6a935de42be97c69.GIF",
-    "static/media/state8.GIF": "/MatthewGritt/hangman/static/media/state8.0e27dc2f6c9fdf7b0707.GIF",
-    "static/media/state7.GIF": "/MatthewGritt/hangman/static/media/state7.806705960ad2dfb878ca.GIF",
-    "static/media/state6.GIF": "/MatthewGritt/hangman/static/media/state6.6748b91214f61762397d.GIF",
-    "static/media/state5.GIF": "/MatthewGritt/hangman/static/media/state5.3400158bb87bf7b18449.GIF",
-    "static/media/state4.GIF": "/MatthewGritt/hangman/static/media/state4.b28f6d17127899f05793.GIF",
-    "static/media/state3.GIF": "/MatthewGritt/hangman/static/media/state3.5da4c74e65f9258e11e8.GIF",
-    "index.html": "/MatthewGritt/hangman/index.html",
-    "static/media/state2.GIF": "/MatthewGritt/hangman/static/media/state2.fa8ee2ae2c77b5581cd5.GIF",
-    "static/media/state1.GIF": "/MatthewGritt/hangman/static/media/state1.18132e835db9e2f8e497.GIF",
-    "main.622ea283.css.map": "/MatthewGritt/hangman/static/css/main.622ea283.css.map",
-    "main.41758e7d.js.map": "/MatthewGritt/hangman/static/js/main.41758e7d.js.map"
+    "main.css": "/hangman/static/css/main.622ea283.css",
+    "main.js": "/hangman/static/js/main.b7820510.js",
+    "static/media/state11.GIF": "/hangman/static/media/state11.43c44828683877de319d.GIF",
+    "static/media/state10.GIF": "/hangman/static/media/state10.c4eeb9b661f90adbaaab.GIF",
+    "static/media/state9.GIF": "/hangman/static/media/state9.b3cc6a935de42be97c69.GIF",
+    "static/media/state8.GIF": "/hangman/static/media/state8.0e27dc2f6c9fdf7b0707.GIF",
+    "static/media/state7.GIF": "/hangman/static/media/state7.806705960ad2dfb878ca.GIF",
+    "static/media/state6.GIF": "/hangman/static/media/state6.6748b91214f61762397d.GIF",
+    "static/media/state5.GIF": "/hangman/static/media/state5.3400158bb87bf7b18449.GIF",
+    "static/media/state4.GIF": "/hangman/static/media/state4.b28f6d17127899f05793.GIF",
+    "static/media/state3.GIF": "/hangman/static/media/state3.5da4c74e65f9258e11e8.GIF",
+    "index.html": "/hangman/index.html",
+    "static/media/state2.GIF": "/hangman/static/media/state2.fa8ee2ae2c77b5581cd5.GIF",
+    "static/media/state1.GIF": "/hangman/static/media/state1.18132e835db9e2f8e497.GIF",
+    "main.622ea283.css.map": "/hangman/static/css/main.622ea283.css.map",
+    "main.b7820510.js.map": "/hangman/static/js/main.b7820510.js.map"
   },
   "entrypoints": [
     "static/css/main.622ea283.css",
-    "static/js/main.41758e7d.js"
+    "static/js/main.b7820510.js"
   ]
 }
