@@ -1,4 +1,5 @@
 # Hangman
+See it live [here](https://matthewgritt.github.io/hangman/)
 
 ### How to play:
 
